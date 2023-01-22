@@ -1,0 +1,11 @@
+# Default ignored files
+/workspace.xml
+.idea/
+target/
+Log/
+*.iml
+*iws
+*.class
+.iml
+/EstimateSecretAlgorithms/lib
+.log
