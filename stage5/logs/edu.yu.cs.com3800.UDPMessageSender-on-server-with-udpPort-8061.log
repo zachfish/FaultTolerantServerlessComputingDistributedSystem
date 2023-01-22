@@ -1,0 +1,1265 @@
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+5-0:0/1:0/2:0/3:0/99:0/4:0/6:0/7:0/5:1/
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:22 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:22 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:22 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:22 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:22 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:22 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:22 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:27:22 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+5-0:0/1:0/2:0/3:0/99:0/4:0/6:0/7:0/5:1/
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:51 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:52 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:52 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:52 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 8:29:52 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8011
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8021
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8031
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8041
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 9002
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8071
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8081
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 5
+	Sender peer epoch: 0
+Jan 09, 2022 9:00:36 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8061
+Receiver Host: localhost
+Receiver port: 8051
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+5-0:0/1:0/2:0/3:0/99:0/4:0/6:0/7:0/5:1/

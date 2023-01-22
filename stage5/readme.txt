@@ -1,0 +1,1 @@
+Highly underestimated how long stage 5 would take, so did not get to writing the bash script

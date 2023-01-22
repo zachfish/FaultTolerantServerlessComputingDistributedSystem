@@ -1,0 +1,72 @@
+Jan 09, 2022 9:19:29 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: started: ZooKeeperPeerServerImpl-on-port-8027
+Jan 09, 2022 9:19:31 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:19:31 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:19:31 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Created JavaRunnerFollower
+Jan 09, 2022 9:20:42 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: started: ZooKeeperPeerServerImpl-on-port-8027
+Jan 09, 2022 9:20:44 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:20:44 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:20:45 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Created JavaRunnerFollower
+Jan 09, 2022 9:22:08 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8077
+Jan 09, 2022 9:22:08 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8077
+Jan 09, 2022 9:41:01 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: started: ZooKeeperPeerServerImpl-on-port-8027
+Jan 09, 2022 9:41:03 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:41:03 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:41:03 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Created JavaRunnerFollower
+Jan 09, 2022 9:42:06 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8077
+Jan 09, 2022 9:42:06 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8077
+Jan 09, 2022 9:44:48 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: started: ZooKeeperPeerServerImpl-on-port-8027
+Jan 09, 2022 9:44:51 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:44:51 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:44:51 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Created JavaRunnerFollower
+Jan 09, 2022 9:47:19 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: started: ZooKeeperPeerServerImpl-on-port-8027
+Jan 09, 2022 9:47:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:47:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:47:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Created JavaRunnerFollower
+Jan 09, 2022 9:48:41 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: started: ZooKeeperPeerServerImpl-on-port-8027
+Jan 09, 2022 9:48:44 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:48:44 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 9:48:44 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Created JavaRunnerFollower
+Jan 09, 2022 9:49:59 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8077
+Jan 09, 2022 9:49:59 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8077
+Jan 09, 2022 10:12:53 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: started: ZooKeeperPeerServerImpl-on-port-8027
+Jan 09, 2022 10:12:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 10:12:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8087
+Jan 09, 2022 10:12:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Created JavaRunnerFollower
+Jan 09, 2022 10:14:17 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8067
+Jan 09, 2022 10:14:17 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: Set Leader to server on port localhost/127.0.0.1:8067

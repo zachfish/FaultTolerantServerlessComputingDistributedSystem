@@ -1,0 +1,88 @@
+Jan 09, 2022 9:19:36 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 1's heartbeat sequence to 3 based on message from 1 at node time 1641781176291
+Jan 09, 2022 9:19:36 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 2's heartbeat sequence to 1 based on message from 2 at node time 1641781176293
+Jan 09, 2022 9:19:36 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 3's heartbeat sequence to 1 based on message from 3 at node time 1641781176293
+Jan 09, 2022 9:19:36 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 99's heartbeat sequence to 2 based on message from 99 at node time 1641781176293
+Jan 09, 2022 9:19:36 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 0's heartbeat sequence to 4 based on message from 0 at node time 1641781176293
+Jan 09, 2022 9:19:39 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 99's heartbeat sequence to 4 based on message from 99 at node time 1641781179802
+Jan 09, 2022 9:19:39 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 4's heartbeat sequence to 2 based on message from 4 at node time 1641781179802
+Jan 09, 2022 9:19:39 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 5's heartbeat sequence to 1 based on message from 5 at node time 1641781179802
+Jan 09, 2022 9:19:39 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 7's heartbeat sequence to 5 based on message from 0 at node time 1641781179802
+Jan 09, 2022 9:19:39 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 3's heartbeat sequence to 6 based on message from 3 at node time 1641781179802
+Jan 09, 2022 9:19:45 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 0's heartbeat sequence to 5 based on message from 0 at node time 1641781185011
+Jan 09, 2022 9:19:45 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 2's heartbeat sequence to 2 based on message from 2 at node time 1641781185011
+Jan 09, 2022 9:19:45 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 4's heartbeat sequence to 5 based on message from 4 at node time 1641781185011
+Jan 09, 2022 9:19:45 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 6's heartbeat sequence to 7 based on message from 6 at node time 1641781185011
+Jan 09, 2022 9:19:46 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 0's heartbeat sequence to 8 based on message from 0 at node time 1641781186056
+Jan 09, 2022 9:19:50 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 1's heartbeat sequence to 5 based on message from 1 at node time 1641781190983
+Jan 09, 2022 9:19:50 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 2's heartbeat sequence to 4 based on message from 2 at node time 1641781190983
+Jan 09, 2022 9:19:50 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 3's heartbeat sequence to 9 based on message from 3 at node time 1641781190983
+Jan 09, 2022 9:19:50 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 99's heartbeat sequence to 8 based on message from 99 at node time 1641781190983
+Jan 09, 2022 9:19:50 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 7's heartbeat sequence to 9 based on message from 0 at node time 1641781190983
+Jan 09, 2022 9:19:50 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 6's heartbeat sequence to 10 based on message from 6 at node time 1641781190983
+Jan 09, 2022 9:19:55 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 0's heartbeat sequence to 12 based on message from 0 at node time 1641781195601
+Jan 09, 2022 9:19:55 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 1's heartbeat sequence to 13 based on message from 1 at node time 1641781195636
+Jan 09, 2022 9:19:55 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 2's heartbeat sequence to 10 based on message from 2 at node time 1641781195636
+Jan 09, 2022 9:19:55 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 99's heartbeat sequence to 12 based on message from 99 at node time 1641781195636
+Jan 09, 2022 9:19:55 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 4's heartbeat sequence to 13 based on message from 4 at node time 1641781195636
+Jan 09, 2022 9:19:55 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 7's heartbeat sequence to 11 based on message from 0 at node time 1641781195636
+Jan 09, 2022 9:19:55 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 3's heartbeat sequence to 14 based on message from 3 at node time 1641781195636
+Jan 09, 2022 9:20:04 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 2's heartbeat sequence to 16 based on message from 2 at node time 1641781204971
+Jan 09, 2022 9:20:04 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 3's heartbeat sequence to 16 based on message from 3 at node time 1641781204971
+Jan 09, 2022 9:20:04 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 99's heartbeat sequence to 17 based on message from 99 at node time 1641781204971
+Jan 09, 2022 9:20:04 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 4's heartbeat sequence to 16 based on message from 4 at node time 1641781204971
+Jan 09, 2022 9:20:04 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 6's heartbeat sequence to 16 based on message from 6 at node time 1641781204971
+Jan 09, 2022 9:20:04 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 7's heartbeat sequence to 17 based on message from 0 at node time 1641781204971
+Jan 09, 2022 9:20:04 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 0's heartbeat sequence to 18 based on message from 0 at node time 1641781204971
+Jan 09, 2022 9:20:07 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 6's heartbeat sequence to 18 based on message from 6 at node time 1641781207889
+Jan 09, 2022 9:20:07 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 1's heartbeat sequence to 20 based on message from 1 at node time 1641781207889
+Jan 09, 2022 9:20:08 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 99's heartbeat sequence to 19 based on message from 99 at node time 1641781208052
+Jan 09, 2022 9:20:09 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Deleter deleteDeadServers
+FINE: 7: no heartbeat from server 5 -server failed
+Jan 09, 2022 9:20:45 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 0's heartbeat sequence to 1 based on message from 0 at node time 1641781245651
+Jan 09, 2022 9:20:45 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 1's heartbeat sequence to 1 based on message from 1 at node time 1641781245651
+Jan 09, 2022 9:20:45 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 2's heartbeat sequence to 2 based on message from 2 at node time 1641781245651
+Jan 09, 2022 9:47:22 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 6's heartbeat sequence to 1 based on message from 6 at node time 1641782842777
+Jan 09, 2022 10:12:55 PM edu.yu.cs.com3800.stage5.HeartbeatMonitor$Receiver receiveGossip
+FINE: 7: updated 5's heartbeat sequence to 1 based on message from 5 at node time 1641784375206

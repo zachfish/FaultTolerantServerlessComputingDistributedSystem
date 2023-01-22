@@ -1,0 +1,60 @@
+Oct 08, 2021 1:53:34 PM edu.yu.cs.com3800.stage1.SimpleServerImpl start
+INFO: Server Started at Fri Oct 08 13-53-34 EDT 2021
+Oct 08, 2021 1:53:34 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Java Code Input: public class Test{ public String run(){ return "Hello Server";}}
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Status Code: 200
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Output: Hello Server
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Java Code Input: This is some bad code, it should not compile
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Status Code: 400
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Output: No class name found in code
+java.lang.IllegalArgumentException: No class name found in code
+	at edu.yu.cs.com3800.JavaRunner.getSourceClassName(JavaRunner.java:134)
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:81)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:68)
+	at edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler.handle(SimpleServerImpl.java:81)
+	at jdk.httpserver/com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77)
+	at jdk.httpserver/sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82)
+	at jdk.httpserver/com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80)
+	at jdk.httpserver/sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:692)
+	at jdk.httpserver/com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77)
+	at jdk.httpserver/sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:664)
+	at jdk.httpserver/sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:159)
+	at jdk.httpserver/sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:442)
+	at jdk.httpserver/sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:408)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Java Code Input: public class Test{ public String run(){ return "This is working!!!!";}}
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Status Code: 200
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Output: This is working!!!!
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Java Code Input: public class Test{ public String run(){ return "Hello Server";}}
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Status Code: 400
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Error: No Proper Content-Type Key-Mapping
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Output:       
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Java Code Input: 
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Status Code: 405
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Error: GET Requests are Not Valid
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Output:       
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Java Code Input: public class Test{ public String run(){ return "Hello Server";}}
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Status Code: 400
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Error: No Proper Content-Type Key-Mapping
+Oct 08, 2021 1:53:35 PM edu.yu.cs.com3800.stage1.SimpleServerImpl$Handler handle
+INFO: Output:       

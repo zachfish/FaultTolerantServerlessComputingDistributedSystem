@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e171dafc-6ef0-4403-8e69-58bbeea6235d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zCRm5MeqpCC8EzJ2uJSRUBCVs1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stage2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zacha\OneDrive\Documents\Computer Science\FishZachary\com3800\stage1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Stage1Test" type="JUnit" factoryName="JUnit">
+      <module name="stage1" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com3800.stage1" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com3800.stage1.Stage1Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e171dafc-6ef0-4403-8e69-58bbeea6235d" name="Default Changelist" comment="" />
+      <created>1633650242102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633650242102</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="55" key="#Project_Structure" timestamp="1633650486873">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="353" y="55" key="#Project_Structure/0.0.1500.960@0.0.1500.960" timestamp="1633650486873" />
+    <state x="206" y="135" width="1086" height="760" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633711238478">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="206" y="135" width="1086" height="760" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633711238478" />
+    <state x="206" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1633650833160" />
+    <state x="93" y="93" width="1313" height="773" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1633661671139">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="93" y="93" width="1313" height="773" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633661671139" />
+    <state x="481" y="283" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1633711233355">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="481" y="283" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633711233355" />
+    <state x="-1234" y="279" key="FileChooserDialogImpl" timestamp="1636951303740">
+      <screen x="-1920" y="64" width="1920" height="1032" />
+    </state>
+    <state x="-1234" y="279" key="FileChooserDialogImpl/0.0.1500.952/3000.48.1920.1032/-1920.64.1920.1032@-1920.64.1920.1032" timestamp="1636951303740" />
+    <state x="536" y="200" key="FileChooserDialogImpl/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633716129647" />
+    <state x="536" y="200" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1634676062906" />
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom" timestamp="1633822602949">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1457" height="256" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633715613100" />
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1633822602949" />
+    <state width="1458" height="256" key="GridCell.Tab.0.center" timestamp="1633822602947">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1457" height="256" key="GridCell.Tab.0.center/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633715613099" />
+    <state width="1458" height="256" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1633822602947" />
+    <state width="1458" height="256" key="GridCell.Tab.0.left" timestamp="1633822602947">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1457" height="256" key="GridCell.Tab.0.left/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633715613099" />
+    <state width="1458" height="256" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1633822602947" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right" timestamp="1633822602948">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1457" height="256" key="GridCell.Tab.0.right/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633715613099" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1633822602948" />
+    <state x="231" y="55" key="SettingsEditor" timestamp="1633711472045">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="231" y="55" key="SettingsEditor/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633711472045" />
+    <state x="231" y="55" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1633650812467" />
+    <state x="175" y="141" key="new project wizard" timestamp="1634676064918">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="175" y="141" key="new project wizard/0.0.1500.960/3000.48.1920.1040/-1080.64.1080.1880@0.0.1500.960" timestamp="1633711345082" />
+    <state x="175" y="141" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1634676064918" />
+  </component>
+</project>
